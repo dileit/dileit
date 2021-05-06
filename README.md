@@ -1,5 +1,14 @@
-### Hi there 👋
+#### Hello there! My name is Diana and I am a self-taught web developer. I currently am working in front-end software languages namely JavaScript!
 
+#### Skills
+
+* HTML
+* CSS / SASS
+* JavaScript
+
+#### Currently Learning
+
+* React
 <!--
 **dileit/dileit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
